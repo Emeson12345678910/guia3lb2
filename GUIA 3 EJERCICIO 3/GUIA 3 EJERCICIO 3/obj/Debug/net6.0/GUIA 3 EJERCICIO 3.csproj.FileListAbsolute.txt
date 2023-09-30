@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\bin\Debug\net6.0\GUIA 3 EJERCICIO 3.exe
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\bin\Debug\net6.0\GUIA 3 EJERCICIO 3.deps.json
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\bin\Debug\net6.0\GUIA 3 EJERCICIO 3.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\bin\Debug\net6.0\GUIA 3 EJERCICIO 3.dll
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\bin\Debug\net6.0\GUIA 3 EJERCICIO 3.pdb
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.dll
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\refint\GUIA 3 EJERCICIO 3.dll
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.pdb
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\GUIA 3 EJERCICIO 3.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\GUIA 3 EJERCICIO 3\GUIA 3 EJERCICIO 3\obj\Debug\net6.0\ref\GUIA 3 EJERCICIO 3.dll
